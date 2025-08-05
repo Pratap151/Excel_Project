@@ -1,25 +1,29 @@
 # Excel_Project
 
 Project Overview
-This project analyzes the sales data from Ferns N Petals (FNP) — a gift delivery service catering to a variety of occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The goal is to derive actionable insights that help optimize the company’s sales strategy, improve customer satisfaction, and boost operational efficiency.
+This project analyzes the sales data from Ferns N Petals (FNP) — a gift delivery service catering to a variety of occasions like Diwali, Raksha Bandhan, Holi, Birthdays, and Anniversaries. The goal is to derive actionable insights that help optimize the company’s sales strategy, improve customer satisfaction, and boost operational efficiency.
 
-Dataset Description
+🗂️ Dataset Description
 The dataset contains detailed information about:
+
 Orders placed by customers
-Products sold
-Order and delivery dates
-Occasions and product categories
-Customer spending patterns
 
+- Products sold
 
- Outcomes
-This dashboard can help the FNP team:
+- Order and delivery dates
 
-Optimize marketing for specific occasions
+- Occasions and product categories
 
-Improve product bundling strategy
+- Customer spending patterns
 
-Target high-performing cities with regional promotions
+🚀 Outcomes
+- This dashboard can help the FNP team:
 
-Streamline operations based on order-delivery insights
+- Optimize marketing for specific occasions
+
+- Improve product bundling strategy
+
+- Target high-performing cities with regional promotions
+
+- Streamline operations based on order-delivery insights
 
