@@ -24,6 +24,8 @@ Orders placed by customers
 - Improve product bundling strategy
 
 - Target high-performing cities with regional promotions
+  
+- Streamline operations based on order-delivery insights
 
 
 
